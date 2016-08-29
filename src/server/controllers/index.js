@@ -8,6 +8,7 @@ function sum(num1, num2, callback) {
   }
 }
 
+// exports object to ../routes/index.js
 module.exports = {
   sum
 };
